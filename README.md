@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey there! I'm Dainwi Choudhary<br>I'm a Full-Stack Developer and a CSE Undergrad at Galgotias University. I enjoy building impactful applications that solve real-world problems and enhance user experiences.<br><br>💻 Currently:<br><br>Working on Templify – a template management platform<br>Doing a remote internship to gain practical industry experience<br>🚀 Recent Projects:<br><br>TaskMaster – a task management app to boost productivity<br>Custom Blog System – integrated into my portfolio<br>Let's connect!
+👋 Hey there! I'm Dainwi Choudhary<br>I'm a Full-Stack Developer and a CSE Undergrad at Galgotias University. I enjoy building impactful applications that solve real-world problems and enhance user experiences.<br><br>💻 Currently:<br>Working on Templify – a template management platform<br>Doing a remote internship to gain practical industry experience<br><br>🚀 Recent Projects:<br>TaskMaster – a task management app to boost productivity<br>Custom Blog System – integrated into my portfolio<br>Let's connect!
 
 
 ## 🌐 Socials:
