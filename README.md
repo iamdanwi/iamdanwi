@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey there! I'm Dainwi Choudhary<br>I'm a Full-Stack Developer and a CSE Undergrad at Galgotias University. I enjoy building impactful applications that solve real-world problems and enhance user experiences.<br><brLet's connect!
+👋 Hey there! I'm Dainwi Choudhary<br>I'm a Full-Stack Developer and a CSE Undergrad at Galgotias University. I enjoy building impactful applications that solve real-world problems and enhance user experiences.<br><br>Let's connect!
 
 
 ## 🌐 Socials:
